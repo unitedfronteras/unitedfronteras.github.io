@@ -1,0 +1,10 @@
+global:
+  spanish: Español
+  english: English
+  welcome: "Welcome!"
+
+titles:
+  collaborate: Collaborate
+  about: About
+  nosotrxs: Us
+  protocols: Protocols

@@ -1,0 +1,44 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-col-wrapper"></h2>
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li>Contact us
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+            <a href="https://twitter.com/search?q=%23unitedfronteras&src=typd">
+             <span class="username">#unitedfronteras</span>
+            </a>
+            <li>
+            <a href="https://twitter.com/search?q=%23borderlandsDH&src=typd">
+              <span class="username">#borderlandsDH</span>
+            </a>
+            <li>
+            <a href="https://twitter.com/search?q=%23fronterasHD&src=typd">
+              <span class="username">#fronterasHD</span>
+              </a>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
