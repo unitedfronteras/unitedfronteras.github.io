@@ -4,7 +4,7 @@ email: unitedfronteras@gmail.com
 description: United Fronteras brings together active and inactive works that leverage digital components to document the borderlands from multiple perspectives (literature, archives, art, oral histories, music, among others) from pre-colonial times to the twenty-first century. The projects will be featured through a digital map and various visualizations that will maintain a digital record of projects that encompass the borderlands. Additionally, it will offer audiences a unique opportunity to meaningfully engage in the multidimensional layers of border regions.
 
 
-baseurl: "unitedfronteras.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
