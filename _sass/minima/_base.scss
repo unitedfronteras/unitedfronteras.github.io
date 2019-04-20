@@ -1,9 +1,12 @@
 /**
  * Reset some basic elements
  */
-@font-face {font-family: "Anton"; src: url(https://fonts.googleapis.com/css?family=Anton);}
+
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+
 body {
-  font-family: 'Anton', sans-serif;
+  font-family: $base-font-family;
   font-size: 20px;
 }
 body, h1, h2, h3, h4, h5, h6,
@@ -13,6 +16,10 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+a.site-title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2rem;
+}
 
 
 /**

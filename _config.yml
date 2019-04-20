@@ -12,12 +12,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-collections:
-  pages:
-    pages: true
 
 # The content
-# include: ["_pages"]
+include: ["_pages"]
 
 languages: ["en", "es"]
 exclude_from_localizations: ["assets", "images"]
