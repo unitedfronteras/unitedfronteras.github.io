@@ -1,6 +1,6 @@
 **Estamos buscando proyectos digitales sobre la frontera**
 
-SI TIENES INFORMACIÓN QUE COMPARTIR, POR FAVOR LLENA EL SIGUIENTE FORMULARIO:
+Si tienes información que compartir, por favor llena el siguiente formulario:
 
 <iframe src="https://goo.gl/forms/mWNvJbvqC0lTPnCv1" width="100%" height="500" border="10"></iframe>
 

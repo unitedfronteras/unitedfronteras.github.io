@@ -1,6 +1,6 @@
 **We are looking for digital projects about the border**
 
-IF YOU HAVE INFORMATION TO SHARE WITH US PLEASE FILL OUT THIS FORM:
+If you have information to share with us please fill out this form:
 
 <iframe src="https://goo.gl/forms/mWNvJbvqC0lTPnCv1" width="100%" height="500" border="10"></iframe>
 
