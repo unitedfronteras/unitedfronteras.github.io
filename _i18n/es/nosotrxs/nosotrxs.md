@@ -51,7 +51,7 @@ procesos migratorios y/o investigación.
 ![Sylvia Fernández Quintanilla](/images/sylviapic.jpg "Sylvia Fernández Quintanilla") | **Sylvia Fernández Quintanilla**, Ph.D. Candidate, Hispanic Studies, University of Houston
 ![Patricia Flores-Hutson](/images/patypic.jpg "Patricia Flores-Hutson") | **Patricia Flores-Hutson**, Ph.D. Candidate, University of Texas at El Paso
 ![Alex Gil](/images/alexpic.jpg "Alex Gil") | **Alex Gil**, Digital Scholarship Librarian, Columbia University
-![Laura Gonzales](/images/laurapic.jpg "Laura Gonzales") | **Laura Gonzales**, Assistant Professor, English Department, University of Texas at El Paso
+![Laura Gonzales](/images/laurapic.jpg "Laura Gonzales") | **Laura Gonzales**, Assistant Professor of Digital Writing and Cultural Rhetorics, University of Florida
 ![Rubria Rocha](/images/rubriapic.jpg "Rubria Rocha") | **Rubria Rocha de Luna**, Ph.D. Candidate, Hispanic Studies Texas A&M University
 ![Verónica Romero](/images/veropic.jpg "Verónica Romero") | **Verónica Romero**, Ph.D. Student, Hispanic Studies University of Houston
 ![Annette M. Zapata](/images/annettepic.jpg "Annette M. Zapata") | **Annette M. Zapata**, Ph.D. Candidate, Hispanic Studies, University of Houston
@@ -61,4 +61,3 @@ Contribuidores:
 - **Isis Campos**, Ph.D. Candidate, Hispanic Studies, University of Houston
 - **Estefanía Castañeda Perez**, Ph.D. Student, Ford Foundation and Natural Science Foundation Predoctoral Fellow, University of California at Los Angeles
 - **Vannessa Falcón Orta**, Ph.D. Candidate in Education, San Diego State University & Claremont Graduate University
-- **Patricia Flores-Hutson**, Ph.D. Candidate, University of Texas at El Paso
