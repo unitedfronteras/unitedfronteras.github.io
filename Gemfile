@@ -14,6 +14,8 @@ gem 'rake' , '>= 12.3.0'
 
 gem 'wax_tasks', '>= 1.0.1', '< 1.1'
 
+gem 'html-proofer'
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
 

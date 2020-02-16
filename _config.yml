@@ -18,3 +18,40 @@ include: ["_pages"]
 
 languages: ["en", "es"]
 exclude_from_localizations: ["assets", "images"]
+
+# --------------------------------------------------------------
+# WAX COLLECTIONS
+# --------------------------------------------------------------
+
+collections:
+  exhibits:
+    output: true
+  united: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'united_item' # the layout for the pages to use
+    metadata:
+      source: 'united.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/united' # path to the directory of images within `_data`
+
+# --------------------------------------------------------------
+# SEARCH INDEX SETTINGS
+# --------------------------------------------------------------
+# You can create multiple search indexes below (though only one is
+# recommended!) by specifying
+# an `index` file to write it to and some `collections` for it to index
+# and running `$ bundle exec rake wax:search` .
+
+search:
+  main:
+    index: '/search/index.json' # file the index will get written to
+    collections:
+      qatar:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - artist
+          - location
+          - label
+          - _date
+          - object_type
+          - current_location
