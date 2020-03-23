@@ -47,7 +47,8 @@ We are Digital Humanities scholars from various disciplines and universities. Th
 ![Verónica Romero](/images/veropic.jpg "Verónica Romero") | **Verónica Romero**, Ph.D. Student, Hispanic Studies University of Houston
 ![Annette M. Zapata](/images/annettepic.jpg "Annette M. Zapata") | **Annette M. Zapata**, Ph.D. Candidate, Hispanic Studies, University of Houston
 
-### Contributors:
+
+### Contributors
 
 - **Isis Campos**
 - **Estefanía Castañeda Perez**
