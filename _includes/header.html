@@ -15,17 +15,20 @@
 
         <!-- La creación de los links en si -->
         <div class="trigger">
-            {% for node in site.pages %} 
-                {% if node.title %}
-            <a  class="page-link" href="{{ site.baseurl }}{{ node.url }}">{% t node.title %}</a>
-                {% endif %}
-            {% endfor %}
 
   <!-- Agregar el link del idioma -->
       {% if site.lang == "es" %}
+      <a  class="page-link" href="/es/about/">{% t titles.about %}</a>
+      <a  class="page-link" href="/es/collaborate/">{% t titles.collaborate %}</a>
+      <a  class="page-link" href="/es/nosotrxs/">{% t titles.nosotrxs %}</a>
+      <a  class="page-link" href="/es/projects/">{% t titles.projects %}</a>
       {% capture link1 %}{{ site.baseurl_root }}{{ page.url}}{% endcapture %}
   <a href="{{ link1 }}" >{% t global.english %}</a>
     {% elsif site.lang == "en" %}
+          <a  class="page-link" href="{{ site.baseurl }}/about/">{% t titles.about %}</a>
+      <a  class="page-link" href="{{ site.baseurl }}/collaborate/">{% t titles.collaborate %}</a>
+      <a  class="page-link" href="{{ site.baseurl }}/nosotrxs/">{% t titles.nosotrxs %}</a>
+      <a  class="page-link" href="{{ site.baseurl }}/projects/">{% t titles.projects %}</a>
       {% capture link2 %}{{ site.baseurl_root }}/es{{ page.url  }}{% endcapture %}
   <a href="{{ link2 }}" >{% t global.spanish %}</a>
     {% endif %}
