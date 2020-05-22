@@ -16,7 +16,7 @@
         <!-- La creación de los links en si -->
         <div class="trigger">
             {% for node in site.pages %} 
-                {% if node.author %}
+                {% if node.title %}
             <a  class="page-link" href="{{ site.baseurl }}{{ node.url }}">{% t node.title %}</a>
                 {% endif %}
             {% endfor %}
