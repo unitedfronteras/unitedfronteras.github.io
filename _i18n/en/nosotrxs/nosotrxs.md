@@ -33,10 +33,10 @@ The core values of *United Fronteras* are principles that guide our mission, vis
 
 We are Digital Humanities scholars from various disciplines and universities. The team is composed mostly of women and border natives from various regions of the Mexico-U.S. border; the few who are not border natives have experienced this borderland, particularly and closely, through their lived experiences with (im)migration procedures and/or in their research.
 
-### Phase 1 (Mexico-U.S. Borderlands)
+### Phase 1 \| The Mexico-U.S. Borderlands
 
-![Carolina Alonso](/images/caropic.jpg "Carolina Alonso") | **Carolina Alonso**, Assistant Professor, Borders and Languages and Gender and Sexuality Studies, Fort Lewis College
-![Maira E. Álvarez](/images/mairapic.jpg "Maira E. Álvarez") | **Maira E. Álvarez**, Inter-University Program for Latino Research (IUPLR) Director, Houston Office,  Center for Mexican American Studies, University of Houston
+![Carolina Alonso](/images/caropic.jpg "Carolina Alonso") | **Carolina Alonso**, Assistant Professor, Borders and Languages and Gender and Sexuality Studies, Fort Lewis College \| Narrative Team
+![Maira E. Álvarez](/images/mairapic.jpg "Maira E. Álvarez") | **Maira E. Álvarez**, Inter-University Program for Latino Research (IUPLR) Director, Houston Office,  Center for Mexican American Studies, University of Houston \| Data Team, Verification Team
 ![Sylvia Fernández Quintanilla](/images/sylviapic.jpg "Sylvia Fernández Quintanilla") | **Sylvia Fernández Quintanilla**, Public & DH Postdoc Research Fellow, Hall Center for the Humanities & Institute for Digital Research in the Humanities, University of Kansas
 ![Patricia Flores-Hutson](/images/patypic.jpg "Patricia Flores-Hutson") | **Patricia Flores-Hutson**, Ph.D. Candidate, University of Texas at El Paso
 ![Alex Gil](/images/alexpic.jpg "Alex Gil") | **Alex Gil**, Digital Scholarship Librarian, Columbia University

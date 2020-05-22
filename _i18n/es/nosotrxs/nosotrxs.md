@@ -39,12 +39,10 @@ desarrollándose*
 
 ## Conoce al equipo
 
-Somos humanistas-digitales de diversas disciplinas y universidades. El equipo está compuesto mayormente
-por mujeres y originarixs de distintas regiones de la frontera México-Estados Unidos; lxs pocxs que no
-lo son han vivido y experimentado, de manera cercana, la frontera a través de experiencias personales,
-procesos migratorios y/o investigación.
+Somos humanistas-digitales de diversas disciplinas y universidades. El equipo está compuesto mayormente por mujeres y originarixs de distintas regiones de la frontera México-Estados Unidos; lxs pocxs que no lo son han vivido y experimentado, de manera cercana, la frontera a través de experiencias personales, procesos migratorios y/o investigación.
 
-## Primera fase (Frontera México-Estados Unidos)
+## Primera fase \| Frontera México-Estados Unidos
+
 
 ![Carolina Alonso](/images/caropic.jpg "Carolina Alonso") | **Carolina Alonso**, Assistant Professor, Borders and Languages and Gender and Sexuality Studies, Fort Lewis College
 ![Maira E. Álvarez](/images/mairapic.jpg "Maira E. Álvarez") | **Maira E. Álvarez**, Inter-University Program for Latino Research (IUPLR) Director, Houston Office,  Center for Mexican American Studies, University of Houston
