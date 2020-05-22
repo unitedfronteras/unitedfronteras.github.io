@@ -1,10 +1,10 @@
 <br>
 
-## [US-Mexico Borderlands Exhibit](https://unitedfronteras.github.io//ufexhibition_mexusa/)
+## [US-Mexico Borderlands Exhibit](https://unitedfronteras.github.io/ufexhibition_mexusa/)
 
 
 
-<a href="https://unitedfronteras.github.io//ufexhibition_mexusa/"><img src="/images/us-mex-exhibit.png" alt="Screenshot from US-Mexico Borderlands Exhibit"></a>
+<a href="https://unitedfronteras.github.io/ufexhibition_mexusa/"><img src="/images/us-mex-exhibit.png" alt="Screenshot from US-Mexico Borderlands Exhibit"></a>
 
 <br>
 

@@ -1,6 +1,6 @@
-## [Exhibición México-Estados Unidos](https://unitedfronteras.github.io//ufexhibition_mexusa/)
+## [Exhibición México-Estados Unidos](https://unitedfronteras.github.io/ufexhibition_mexusa/)
 
-<a href="https://unitedfronteras.github.io//ufexhibition_mexusa/"><img src="/images/us-mex-exhibit.png" alt="Screenshot from US-Mexico Borderlands Exhibit"></a>
+<a href="https://unitedfronteras.github.io/ufexhibition_mexusa/"><img src="/images/us-mex-exhibit.png" alt="Screenshot from US-Mexico Borderlands Exhibit"></a>
 
 <br>
 

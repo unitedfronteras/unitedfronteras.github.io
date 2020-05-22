@@ -1,7 +1,7 @@
 ---
 layout: page
 title: titles.projects
-author: Alex Gil
+author: Alex
 permalink: /projects/
 ---
 
